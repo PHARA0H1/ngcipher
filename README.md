@@ -67,7 +67,7 @@ ciphertext, tag, nonce = encrypt(plaintext, key)
 
 ## Documentation
 
-For detailed documentation, visit [https://github.com/yourusername/ngcipher/wiki](https://github.com/yourusername/ngcipher/wiki).
+For detailed documentation, visit [https://github.com/yourusername/ngcipher/wiki](https://github.com/PHARA0H1/ngcipher/wiki).
 
 ## Security Considerations
 
