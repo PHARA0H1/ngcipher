@@ -21,7 +21,7 @@ pip install ngcipher
 Or install directly from GitHub:
 
 ```bash
-pip install git+https://github.com/yourusername/ngcipher.git
+pip install git+https://github.com/PHARA0H1/ngcipher.git
 ```
 
 ## Quick Start
@@ -67,7 +67,7 @@ ciphertext, tag, nonce = encrypt(plaintext, key)
 
 ## Documentation
 
-For detailed documentation, visit [https://github.com/yourusername/ngcipher/wiki](https://github.com/PHARA0H1/ngcipher/wiki).
+For detailed documentation, visit [https://github.com/PHARA0H1/ngcipher/wiki](https://github.com/PHARA0H1/ngcipher/wiki).
 
 ## Security Considerations
 
